@@ -477,7 +477,7 @@ class SnakeGame(RavenApp):
                 width=text_width,
             )
             objective_text = TextBox(
-                text="Guide the snake to eat the apples 🍎. Each apple makes the snake grow longer and adds 10 points to your score.",
+                text="Guide the snake to eat the red food. Each food makes the snake grow longer and adds 10 points to your score.",
                 font_type="body",
                 width=text_width,
                 wrap_words=True,
