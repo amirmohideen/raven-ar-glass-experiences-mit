@@ -1,4 +1,4 @@
-# Raven Glass Experiments
+# Raven Resonance AR Glass Experiences
 
 This repository contains 2 AR glass experiences I built using the Raven SDK during MIT Reality Hack 2026.
 
