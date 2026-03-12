@@ -4,10 +4,10 @@ This repository contains 2 AR glass experiences I built using the Raven SDK duri
 
 ## Projects
 
-![Snake Game_Demo](assets/snake_game.gif)
-
 ### 1. Snake Game
-A recreation of the classic Nokia Snake game for Raven Glass.
+A recreation of the classic Nokia Snake game for Raven Resonance AR Glasses.
+
+![Snake Game_Demo](assets/snake_game.gif)
 
 **Controls**
 - Move with eye gaze
@@ -15,6 +15,8 @@ A recreation of the classic Nokia Snake game for Raven Glass.
 
 ### 2. Fireworks Experience
 A simple interactive AR fireworks experience for Raven Glass.
+
+![Snake Game_Demo](assets/fireworks_experience.gif)
 
 **Controls**
 - Blink twice to launch fireworks
